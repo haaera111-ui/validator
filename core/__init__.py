@@ -1,1 +1,1 @@
-# Core module - configuration and constants
+# Core configuration module
