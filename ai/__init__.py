@@ -1,1 +1,1 @@
-# AI module - OCR and NLP clients
+# Phase 3: AI/Embedding modules
